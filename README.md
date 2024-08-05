@@ -1,8 +1,11 @@
 # Project_IA
-Information Assurance Project
-•	Spearheaded the development and implementation of a comprehensive information security solution, integrating robust IPS and IDS technologies for threat detection and incident response, along with advanced EDR (Endpoint Detection and Response) systems to enhance endpoint security.
-•	Conducted thorough network security assessments, identifying vulnerabilities, and deploying proactive measures such as endpoint security tools and antivirus software to mitigate risks and bolster defenses. Emphasized the importance of Data Loss Prevention (DLP) strategies to protect sensitive information from unauthorized access and leaks.
-•	Implemented SOAR (Security Orchestration, Automation, and Response) tools to streamline incident response processes and disaster recovery protocols, ensuring resilience in remote work scenarios and safeguarding business continuity. Strengthened IAM (Identity and Access Management) systems to manage user identities and secure access to critical resources.
 
-•	Enhanced Linux and Windows network security through advanced IPS setups, guaranteeing secure communication channels and preventing intrusions to safeguard data integrity. Led external audits to assess security posture and implemented vulnerability management practices to continuously address emerging threats, while ensuring adherence to industry standards and best practices in security management.
-•	Engaged in GRC (Governance, Risk Management, and Compliance) activities to ensure the organization’s security policies and procedures align with regulatory requirements and industry standards, thereby fortifying the overall security framework.
+
+
+**Information Assurance Project**
+
+Objectives:
+We were asked to design a security security solution for a company which lacked basic infrastructure security. We were asked to document and report all the recommended changes with a viable support to the changes.
+
+Conclusion:
+We provided a detailed design and architecture security solution. Made sure that the company was compliant against industry standards w.r.t data handling. All the solution proposed was done within a budget constraint.
